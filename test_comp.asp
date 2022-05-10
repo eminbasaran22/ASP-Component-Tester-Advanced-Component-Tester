@@ -2,8 +2,7 @@
 <%
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 ' ASP Component Test
-' © 2001 James Harris, All Rights Reserved
-' For help with this script, please visit http://www.pensaworks.com
+' Â© 2022
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 on error resume next
@@ -446,7 +445,7 @@ if a.Description <> "" then
     </td>
   </tr>
   <tr>        
-    <td width="25%" valign="bottom"> <p align="right"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>© 
+    <td width="25%" valign="bottom"> <p align="right"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Â© 
         2002, <a href="http://www.pensaworks.com" target="_blank">PensaWorks, 
         inc.</a> <br>
         All Rights Reserved.</b></font> </td>
@@ -612,7 +611,7 @@ installed = "" : comCreate = "" : comURL = "" : comName = "" : comCat = "" : com
     </td>
   </tr>
   <tr>        
-    <td width="25%" valign="bottom"> <p align="right"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>© 
+    <td width="25%" valign="bottom"> <p align="right"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Â© 
         2002, <a href="http://www.pensaworks.com" target="_blank">PensaWorks, 
         inc.</a> <br>
         All Rights Reserved.</b></font> </td>
